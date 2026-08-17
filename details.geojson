@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.501846,
+          47.40324
+        ]
+      },
+      "properties": {
+        "name": "Entrée",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pMMV7",
+        "image": "https://media.sketchfab.com/models/a9149e67fe514e44b11a309c6b5afa58/thumbnails/ffa6cab721d341fe844ff4f99029ff72/7941c6dac8234d4bb7c393eac8f9fb82.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.518448,
+          47.396379
+        ]
+      },
+      "properties": {
+        "name": "Doline",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pMMVU",
+        "image": "https://media.sketchfab.com/models/5dd84ce8814940e2bc35c724d900e63e/thumbnails/506777d5aa39464d8576f3d7abd37caa/748731c109c949528caec50f321006d4.jpeg"
+      }
+    }
+  ]
+}
